@@ -1,0 +1,61 @@
+.navbar{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+padding:15px 40px;
+
+background:#2563eb;
+
+color:white;
+
+}
+
+.navbar h2{
+
+font-size:28px;
+
+}
+
+.navbar div{
+
+display:flex;
+
+align-items:center;
+
+gap:20px;
+
+}
+
+.navbar a{
+
+color:white;
+
+font-weight:bold;
+
+}
+
+.navbar button{
+
+padding:10px 20px;
+
+background:white;
+
+color:#2563eb;
+
+border:none;
+
+border-radius:6px;
+
+font-weight:bold;
+
+}
+
+.navbar button:hover{
+
+background:#dbeafe;
+
+}
